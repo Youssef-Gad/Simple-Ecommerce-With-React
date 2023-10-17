@@ -1,7 +1,7 @@
 # Simple Ecommerce With React
 This Ecommerce is built with React by fetching data from Fakestore Api
 ## Skills
-- React Bootsrapp
+- React Bootsrap
 - React Router
 - React Redux
 
